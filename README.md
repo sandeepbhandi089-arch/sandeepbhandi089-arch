@@ -7,11 +7,12 @@ A passionate and driven First-Year B.Tech student focused on building a strong f
 
 ### 🛠️ Skills & Tech Stack
 
-<!-- Core Languages -->
-<img src="https://shields.io" /> <img src="https://shields.io" /> 
+![C](https://shields.io)
+![C++](https://shields.io)
+![Ubuntu](https://shields.io)
+![Linux](https://shields.io)
+![VS Code](https://shields.io)
 
-<!-- OS & Environments -->
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
